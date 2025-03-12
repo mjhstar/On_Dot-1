@@ -1,5 +1,5 @@
-https://doi.org/10.7236/JIIBC.2020.20.6.41
-https://www.hanium.or.kr/intranet/hof/hofDetail.do
+### https://doi.org/10.7236/JIIBC.2020.20.6.41
+### https://www.hanium.or.kr/intranet/hof/hofDetail.do?searchYear=2020&pjtSn=14703
 
 # On_Dot 
 ### 시각장애인을 위한 점자 교육 시스템 (Braille Training System for the Blind)
